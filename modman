@@ -1,2 +1,2 @@
-app/etc/modules/Etailer_Margins.xml                         app/etc/modules/Etailer_Margins.xml
+app/etc/modules/Etailer_Backorders.xml                         app/etc/modules/Etailer_Backorders.xml
 app/code/community/Etailer/Backorders                      app/code/community/Etailer/Backorders
